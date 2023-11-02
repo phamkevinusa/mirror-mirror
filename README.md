@@ -10,9 +10,9 @@ This is a brief description of my awesome project. You can provide an introducti
 
 ## Installation
 
-To install this project, you can use the following commands:
+To use this project, run it in vscode
+Make sure python is installed
+run the following commands in the terminal to install opencv:   
+'''pip3 install opencv-python
+pip install gradio_client
 
-```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
-npm install
