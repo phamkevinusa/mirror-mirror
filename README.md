@@ -16,7 +16,7 @@ run the following commands in the terminal to install opencv and mini-gpt4:
 ```bash
 pip3 install opencv-python
 pip install gradio_client
-
+```
 ## information
 MiniGPT api documentation:
 https://huggingface.co/spaces/Vision-CAIR/minigpt4
