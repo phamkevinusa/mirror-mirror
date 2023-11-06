@@ -15,10 +15,10 @@ To use this project, run it in vscode
 Make sure python is installed
 run the following commands in the terminal to install opencv and mini-gpt4:   
 ```bash
-pip3 install opencv-python
+pip install opencv-python
 pip install gradio_client
-!pip install SpeechRecognition
-!pip install PyAudio
+pip install SpeechRecognition
+pip install PyAudio
 ```
 ## information
 MiniGPT api documentation:
