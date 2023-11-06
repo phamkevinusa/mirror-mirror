@@ -53,5 +53,5 @@ with sr.Microphone() as source:
     except:
          print("Sorry, I did not get that")
 # Release the camera and close the OpenCV window
-# cap.release()
+ cap.release()
 cv.destroyAllWindows()
