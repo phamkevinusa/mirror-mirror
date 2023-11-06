@@ -6,7 +6,8 @@ This is a brief description of my awesome project. You can provide an introducti
 
 - uses opencv for computer vision
 - uses minigpt4 ai
-- Feature 3
+- uses SpeechRecognition for speech recognition
+- uses pyAudio for audio input.
 
 ## Installation
 
@@ -16,6 +17,8 @@ run the following commands in the terminal to install opencv and mini-gpt4:
 ```bash
 pip3 install opencv-python
 pip install gradio_client
+!pip install SpeechRecognition
+!pip install PyAudio
 ```
 ## information
 MiniGPT api documentation:
