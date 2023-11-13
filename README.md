@@ -19,6 +19,7 @@ pip install opencv-python
 pip install gradio_client
 pip install SpeechRecognition
 pip install PyAudio
+pip install keyboard
 ```
 ## information
 MiniGPT api documentation:
