@@ -21,6 +21,8 @@ pip install SpeechRecognition
 pip install PyAudio
 pip install keyboard
 ```
+must also do weird stuff to use minigpt4 api
 ## information
 MiniGPT api documentation:
 https://huggingface.co/spaces/Vision-CAIR/minigpt4
+https://replicate.com/daanelson/minigpt-4/api?tab=python
