@@ -21,7 +21,6 @@ pip install gradio_client
 pip install SpeechRecognition
 pip install PyAudio
 pip install keyboard
-pip install pillow
 pip install gTTS
 ```
 must also do weird stuff to use minigpt4 api
