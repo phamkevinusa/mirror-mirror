@@ -8,6 +8,7 @@ This is a brief description of my awesome project. You can provide an introducti
 - uses minigpt4 ai
 - uses SpeechRecognition for speech recognition
 - uses pyAudio for audio input.
+- uses gTTS for text to speech
 
 ## Installation
 
@@ -21,6 +22,7 @@ pip install SpeechRecognition
 pip install PyAudio
 pip install keyboard
 pip install pillow
+pip install gTTS
 ```
 must also do weird stuff to use minigpt4 api
 ## information
