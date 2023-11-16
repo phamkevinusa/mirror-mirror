@@ -22,6 +22,7 @@ pip install SpeechRecognition
 pip install PyAudio
 pip install keyboard
 pip install gTTS
+pip install playsound
 ```
 must also do weird stuff to use minigpt4 api
 ## information
