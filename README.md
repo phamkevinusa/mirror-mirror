@@ -1,7 +1,6 @@
 # Mirror Mirror
 
-This is a brief description of my awesome project. You can provide an introduction and explain what your project does.
-
+Created for a class project, this program serves as a proof of concept for the product design of a smart mirror that takes visual and audio input and outputs affirmations, advice, and compliments to boost the user's confidence and overall mental health. The program specifically combines multiple open source tools that allows the user to interact with a language model with both computer vision and speech to text input.
 ## Features
 
 - uses opencv for computer vision
@@ -24,7 +23,7 @@ pip install keyboard
 pip install gTTS
 pip install playsound
 ```
-must also do weird stuff to use minigpt4 api
+paste your replicate ai token in the code
 ## information
 MiniGPT api documentation:
 https://replicate.com/daanelson/minigpt-4/api?tab=python
