@@ -36,7 +36,7 @@ def display_video():
 def background_task():
 
     current_directory = os.getcwd()
-    os.environ["REPLICATE_API_TOKEN"] = "r8_dBJCnIX2PV0C1GNK0PlQEQZisK3q8Vp3KiqyO"
+    os.environ["REPLICATE_API_TOKEN"] = "YOUR_TOKEN"
     def image_to_data_url(filename):
         ext = filename.split('.')[-1]
         prefix = f'data:image/{ext};base64,'
